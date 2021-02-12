@@ -1,0 +1,314 @@
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/core"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/core
+	url = https://github.com/seufster71/toasthub-react-core
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/coreView"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/coreView
+	url = https://github.com/seufster71/toasthub-reactweb-core
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/acquaintances"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/acquaintances
+	url = https://github.com/seufster71/toasthub-react-member-acquaintances
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/acquaintances"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/acquaintances
+	url = https://github.com/seufster71/toasthub-reactweb-member-acquaintances
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/dashboard"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/dashboard
+	url = https://github.com/seufster71/toasthub-react-member-dashboard
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/dashboard"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/dashboard
+	url = https://github.com/seufster71/toasthub-reactweb-member-dashboard
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/events"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/events
+	url = https://github.com/seufster71/toasthub-react-member-events
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/events"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/events
+	url = https://github.com/seufster71/toasthub-reactweb-member-events
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/groups"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/groups
+	url = https://github.com/seufster71/toasthub-react-member-groups
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/groups"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/groups
+	url = https://github.com/seufster71/toasthub-reactweb-member-groups
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/logout"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/logout
+	url = https://github.com/seufster71/toasthub-react-member-logout
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/logout"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/logout
+	url = https://github.com/seufster71/toasthub-reactweb-member-logout
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/profile"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/profile
+	url = https://github.com/seufster71/toasthub-react-member-profile
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/profile"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/profile
+	url = https://github.com/seufster71/toasthub-reactweb-member-profile
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/session"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/session
+	url = https://github.com/seufster71/toasthub-react-member-session
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_backlog"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_backlog
+	url = https://github.com/seufster71/toasthub-react-pm-backlog
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_backlog"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_backlog
+	url = https://github.com/seufster71/toasthub-reactweb-pm-backlog
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_defect"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_defect
+	url = https://github.com/seufster71/toasthub-react-pm-defect
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_defect"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_defect
+	url = https://github.com/seufster71/toasthub-reactweb-pm-defect
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_enhancement"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_enhancement
+	url = https://github.com/seufster71/toasthub-react-pm-enhancement
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_enhancement"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_enhancement
+	url = https://github.com/seufster71/toasthub-reactweb-pm-enhancement
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_product"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_product
+	url = https://github.com/seufster71/toasthub-react-pm-product
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_product"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_product
+	url = https://github.com/seufster71/toasthub-reactweb-pm-product
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_project"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_project
+	url = https://github.com/seufster71/toasthub-react-pm-project
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_project"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_project
+	url = https://github.com/seufster71/toasthub-reactweb-pm-project
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_release"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_release
+	url = https://github.com/seufster71/toasthub-react-pm-release
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_release"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_release
+	url = https://github.com/seufster71/toasthub-reactweb-pm-release
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_scrum"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_scrum
+	url = https://github.com/seufster71/toasthub-react-pm-scrum
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_scrum"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_scrum
+	url = https://github.com/seufster71/toasthub-reactweb-pm-scrum
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_sprint"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_sprint
+	url = https://github.com/seufster71/toasthub-react-pm-sprint
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_sprint"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_sprint
+	url = https://github.com/seufster71/toasthub-reactweb-pm-sprint
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_task"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_task
+	url = https://github.com/seufster71/toasthub-react-pm-task
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_task"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_task
+	url = https://github.com/seufster71/toasthub-reactweb-pm-task
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_team"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_team
+	url = https://github.com/seufster71/toasthub-react-pm-team
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_team"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_team
+	url = https://github.com/seufster71/toasthub-reactweb-pm-team
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_testcase"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_testcase
+	url = https://github.com/seufster71/toasthub-react-pm-testcase
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_testcase"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_testcase
+	url = https://github.com/seufster71/toasthub-reactweb-pm-testcase
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_testscenario"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_testscenario
+	url = https://github.com/seufster71/toasthub-react-pm-testscenario
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_testscenario"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_testscenario
+	url = https://github.com/seufster71/toasthub-reactweb-pm-testscenario
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_workflow"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/pm_workflow
+	url = https://github.com/seufster71/toasthub-react-pm-workflow
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_workflow"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_workflow
+	url = https://github.com/seufster71/toasthub-reactweb-pm-workflow
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/ec_product"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/ec_product
+	url = https://github.com/seufster71/toasthub-react-ec-product
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/ec_product"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/ec_product
+	url = https://github.com/seufster71/toasthub-reactweb-ec-product
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/dashboard"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/dashboard
+	url = https://github.com/seufster71/toasthub-react-admin-dashboard
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/dashboard"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/dashboard
+	url = https://github.com/seufster71/toasthub-reactweb-admin-dashboard
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/language"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/language
+	url = https://github.com/seufster71/toasthub-react-admin-language
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/language"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/language
+	url = https://github.com/seufster71/toasthub-reactweb-admin-language
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/menu"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/menu
+	url = https://github.com/seufster71/toasthub-react-admin-menu
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/menu"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/menu
+	url = https://github.com/seufster71/toasthub-reactweb-admin-menu
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/permissions"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/permissions
+	url = https://github.com/seufster71/toasthub-react-admin-permissions
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/permissions"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/permissions
+	url = https://github.com/seufster71/toasthub-reactweb-admin-permissions
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/preferences"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/preferences
+	url = https://github.com/seufster71/toasthub-react-admin-preferences
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/preferences"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/preferences
+	url = https://github.com/seufster71/toasthub-reactweb-admin-preferences
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/prefmgmt"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/prefmgmt
+	url = https://github.com/seufster71/toasthub-react-admin-prefmgmt
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/prefmgmt"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/prefmgmt
+	url = https://github.com/seufster71/toasthub-reactweb-admin-prefmgmt
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/roles"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/roles
+	url = https://github.com/seufster71/toasthub-react-admin-roles
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/roles"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/roles
+	url = https://github.com/seufster71/toasthub-reactweb-admin-roles
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/service"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/service
+	url = https://github.com/seufster71/toasthub-react-admin-service
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/service"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/service
+	url = https://github.com/seufster71/toasthub-reactweb-admin-service
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/status"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/status
+	url = https://github.com/seufster71/toasthub-react-admin-status
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/status"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/status
+	url = https://github.com/seufster71/toasthub-reactweb-admin-status
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/submenu"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/submenu
+	url = https://github.com/seufster71/toasthub-react-admin-submenu
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/submenu"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/submenu
+	url = https://github.com/seufster71/toasthub-reactweb-admin-submenu
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/usermgmt"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/usermgmt
+	url = https://github.com/seufster71/toasthub-react-admin-usermgmt
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/usermgmt"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/usermgmt
+	url = https://github.com/seufster71/toasthub-reactweb-admin-usermgmt
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/users"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/users
+	url = https://github.com/seufster71/toasthub-react-admin-users
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/users"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/users
+	url = https://github.com/seufster71/toasthub-reactweb-admin-users
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/system/application"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/system/application
+	url = https://github.com/seufster71/toasthub-react-system-application
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/systemView/application"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/systemView/application
+	url = https://github.com/seufster71/toasthub-reactweb-system-application
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/system/clientdomain"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/system/clientdomain
+	url = https://github.com/seufster71/toasthub-react-system-clientdomain
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/systemView/clientdomain"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/systemView/clientdomain
+	url = https://github.com/seufster71/toasthub-reactweb-system-clientdomain
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/system/dashboard"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/system/dashboard
+	url = https://github.com/seufster71/toasthub-react-system-dashboard
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/systemView/dashboard"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/systemView/dashboard
+	url = https://github.com/seufster71/toasthub-reactweb-system-dashboard
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/system/services"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/system/services
+	url = https://github.com/seufster71/toasthub-react-system-services
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/systemView/services"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/systemView/services
+	url = https://github.com/seufster71/toasthub-reactweb-system-services
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/notes"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/notes
+	url = https://github.com/seufster71/toasthub-react-member-notes
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/notes"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/notes
+	url = https://github.com/seufster71/toasthub-reactweb-member-notes
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/submenu"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/submenu
+	url = https://github.com/seufster71/toasthub-react-member-submenu
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/submenu"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/submenu
+	url = https://github.com/seufster71/toasthub-reactweb-member-submenu
+	branch = master
