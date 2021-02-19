@@ -286,7 +286,7 @@ commitAll() {
 	checkAndCommit "${1}"
 	
 	ECHO "#### adminView ec store"
-	cd ~/git/toasthubblueprint/toasthubblueprint/src/main/js/adminmView/ec_store
+	cd ~/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/ec_store
 	checkAndCommit "${1}"
 	
 	
