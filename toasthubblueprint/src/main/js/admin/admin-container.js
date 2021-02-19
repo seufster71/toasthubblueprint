@@ -13,8 +13,6 @@ import StatusView from '../coreView/status/status-view';
 import LoadingView from '../coreView/status/loading-view';
 import NavigationView from '../coreView/navigation/navigation-view';
 import DashboardContainer from './dashboard/dashboard-container';
-import BugsContainer from './bugs/bugs-container';
-import ChangeRequestsContainer from './changerequests/changerequests-container';
 import PreferencesContainer from './preferences/preferences-container';
 import PreferenceSubContainer from './preferences/preferences-sub-container';
 import SubMenuContainer from './submenu/submenu-container';
@@ -22,11 +20,9 @@ import UsersContainer from './users/users-container';
 import RolesContainer from './roles/roles-container';
 import PermissionsContainer from './permissions/permissions-container';
 import LanguageContainer from './language/language-container';
-import CategoryContainer from './category/category-container';
 import StatusContainer from './status/status-container';
 import ServiceContainer from './service/service-container';
 import MenuContainer from './menu/menus-container';
-import SystemContainer from './system/system-container';
 import AdminView from '../adminView/admin-view';
 import UserMgmtContainer from './usermgmt/usermgmt-container';
 import fuLogger from '../core/common/fu-logger';
@@ -71,21 +67,15 @@ class AdminContainer extends Component {
           <StatusView/>
           <Switch>
             <Route exact path="/admin" component={DashboardContainer}/>
-            <PrivateRoute path="/admin-bugs" component={BugsContainer} permissions={myPermissions} code="AB" pathto="/access-denied"/>
-            <PrivateRoute path="/admin-buglanes" component={BugsContainer} permissions={myPermissions} code="ABLA" pathto="/access-denied"/>
-            <PrivateRoute path="/admin-buglist" component={BugsContainer} permissions={myPermissions} code="ABLI" pathto="/access-denied"/>
-            <PrivateRoute path="/admin-changerequests" component={ChangeRequestsContainer} permissions={myPermissions} code="ACR" pathto="/access-denied"/>
             <PrivateRoute path="/admin-users" component={UsersContainer} permissions={myPermissions} code="AU" pathto="/access-denied"/>
             <PrivateRoute path="/admin-roles" component={RolesContainer} permissions={myPermissions} code="AR" pathto="/access-denied"/>
             <PrivateRoute path="/admin-permissions" component={PermissionsContainer} permissions={myPermissions} code="AP" pathto="/access-denied"/>
             <PrivateRoute path="/admin-prefmgmt" component={PreferencesContainer} permissions={myPermissions} code="APR" pathto="/access-denied"/>
             <PrivateRoute path="/admin-prefsub" component={PreferenceSubContainer} permissions={myPermissions} code="APR" pathto="/access-denied"/>
             <PrivateRoute path="/admin-language" component={LanguageContainer} permissions={myPermissions} code="AL" pathto="/access-denied"/>
-            <PrivateRoute path="/admin-category" component={CategoryContainer} permissions={myPermissions} code="AC" pathto="/access-denied"/>
             <PrivateRoute path="/admin-status" component={StatusContainer} permissions={myPermissions} code="AS" pathto="/access-denied"/>
             <PrivateRoute path="/admin-service" component={ServiceContainer} permissions={myPermissions} code="ASVR" pathto="/access-denied"/>
             <PrivateRoute path="/admin-menu" component={MenuContainer} permissions={myPermissions} code="AM" pathto="/access-denied"/>
-            <PrivateRoute path="/admin-system" component={SystemContainer} permissions={myPermissions} code="ASYS" pathto="/access-denied"/>
             <PrivateRoute path="/admin-other" component={SubMenuContainer} permissions={myPermissions} code="AO" pathto="/access-denied"/>
             <PrivateRoute path="/admin-usermgmt" component={UserMgmtContainer} permissions={myPermissions} code="AUM" pathto="/access-denied"/>
           </Switch>

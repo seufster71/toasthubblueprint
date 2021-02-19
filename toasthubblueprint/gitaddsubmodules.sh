@@ -72,8 +72,11 @@ git submodule add -b master https://github.com/seufster71/toasthub-react-pm-work
 git submodule add -b master https://github.com/seufster71/toasthub-reactweb-pm-workflow  ~/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_workflow
 
 ECHO adding E-Commerce
-git submodule add -b master https://github.com/seufster71/toasthub-react-ec-product  ~/git/toasthubblueprint/toasthubblueprint/src/main/js/member/ec_product
-git submodule add -b master https://github.com/seufster71/toasthub-reactweb-ec-product  ~/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/ec_product
+git submodule add -b master https://github.com/seufster71/toasthub-react-ec-store  ~/git/toasthubblueprint/toasthubblueprint/src/main/js/member/ec_store
+git submodule add -b master https://github.com/seufster71/toasthub-reactweb-ec-store  ~/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/ec_store
+
+git submodule add -b master https://github.com/seufster71/toasthub-react-admin-ec-store  ~/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/ec_store
+git submodule add -b master https://github.com/seufster71/toasthub-reactweb-admin-ec-store  ~/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/ec_store
 
 ECHO adding admin
 git submodule add -b master https://github.com/seufster71/toasthub-react-admin-dashboard  ~/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/dashboard

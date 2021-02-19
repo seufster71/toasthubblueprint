@@ -16,7 +16,7 @@ module.exports = merge(common, {
     new webpack.DefinePlugin({ 'process.env.NODE_ENV': JSON.stringify('production') }),
     new CleanWebpackPlugin(['./src/main/resources/static/dist']),
     new HtmlWebpackPlugin({
-    	title: 'Toasthub React',
+    	title: 'Toasthub',
     	template: './src/main/js/index.html',
     	filename: BUILD_DIR + '/index.html'
     }),

@@ -31,7 +31,6 @@ import PMWorkflowStepContainer from './pm_workflow/workflowstep-container';
 import NotesContainer from './notes/notes-container';
 import GroupsContainer from './groups/groups-container';
 import SubMenuContainer from './submenu/submenu-container';
-import ShoppingContainer from './shopping/shopping-container';
 import ProfileContainer from './profile/profile-container';
 import DashboardContainer from './dashboard/dashboard-container';
 import LogoutContainer from './logout/logout-container';
@@ -96,7 +95,6 @@ class MemberContainer extends Component {
             <PrivateRoute path="/member-groups" component={GroupsContainer} permissions={myPermissions} code="MG" pathto="/access-denied"/>
             <PrivateRoute path="/member-notes" component={NotesContainer} permissions={myPermissions} code="MN" pathto="/access-denied"/>
             <PrivateRoute path="/member-submenu" component={SubMenuContainer} permissions={myPermissions} code="MSM" pathto="/access-denied"/>
-            <PrivateRoute path="/member-shopping" component={ShoppingContainer} permissions={myPermissions} code="MS" pathto="/access-denied"/>
             <PrivateRoute path="/member-profile" component={ProfileContainer} permissions={myPermissions} code="MP" minRights="W" pathto="/access-denied"/>
             <PrivateRoute path="/member-logout" component={LogoutContainer} permissions={myPermissions} code="ML" pathto="/access-denied"/>
             <Route path="/admin" render={() => (

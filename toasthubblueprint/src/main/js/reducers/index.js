@@ -13,11 +13,9 @@ import permissions from '../admin/permissions/permissions-reducer';
 import menus from '../admin/menu/menus-reducer';
 import preferences from '../admin/preferences/preferences-reducer';
 import preferenceSub from '../admin/preferences/preferences-sub-reducer';
-import category from '../admin/category/category-reducer';
 import services from '../admin/service/service-reducer';
 import clientDomains from '../system/clientdomain/clientdomain-reducer';
 import applications from '../system/application/application-reducer';
-import bugs from '../admin/bugs/bugs-reducer';
 import acquaintances from '../member/acquaintances/acquaintances-reducer';
 import dashboard from '../admin/dashboard/dashboard-reducer';
 import pmteam from '../member/pm_team/team-reducer';
@@ -39,7 +37,7 @@ import pmworkflow from '../member/pm_workflow/workflow-reducer';
 import pmworkflowstep from '../member/pm_workflow/workflowstep-reducer';
 
 const rootReducer = combineReducers({appPrefs,appMenus,session,member,status,statuses,
-  users,languages,roles,permissions,menus,preferences,preferenceSub,category,services,clientDomains,applications,bugs,
+  users,languages,roles,permissions,menus,preferences,preferenceSub,services,clientDomains,applications,
 acquaintances,dashboard,userPrefs,pmteam,pmmember,pmrole,pmpermission,pmproduct,pmproject,pmrelease,pmbacklog,pmdefect,pmenhancement,pmscrum,pmsprint,pmtask,
 pmtestcase,pmtestscenario,pmworkflow,pmworkflowstep});
 

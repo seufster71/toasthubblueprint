@@ -272,13 +272,23 @@ commitAll() {
 	cd ~/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/pm_workflow
 	checkAndCommit "${1}"
 	
-	ECHO "#### member ec product"
-	cd ~/git/toasthubblueprint/toasthubblueprint/src/main/js/member/ec_product
+	
+	ECHO "#### member ec store"
+	cd ~/git/toasthubblueprint/toasthubblueprint/src/main/js/member/ec_store
 	checkAndCommit "${1}"
 	
-	ECHO "#### memberView ec product"
-	cd ~/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/ec_product
+	ECHO "#### memberView ec store"
+	cd ~/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/ec_store
 	checkAndCommit "${1}"
+	
+	ECHO "#### admin ec store"
+	cd ~/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/ec_store
+	checkAndCommit "${1}"
+	
+	ECHO "#### adminView ec store"
+	cd ~/git/toasthubblueprint/toasthubblueprint/src/main/js/adminmView/ec_store
+	checkAndCommit "${1}"
+	
 	
 	ECHO "#### system application"
 	cd ~/git/toasthubblueprint/toasthubblueprint/src/main/js/system/application

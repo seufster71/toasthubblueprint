@@ -16,7 +16,7 @@ module.exports = merge(common, {
   },
   plugins: [
 	    new HtmlWebpackPlugin({
-	    	title: 'Toasthub React',
+	    	title: 'Toasthub',
 	    	template: './src/main/js/index.html',
 	    	filename: BUILD_DIR + '/index.html'
 	    }),

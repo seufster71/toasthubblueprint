@@ -312,3 +312,19 @@
 	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/submenu
 	url = https://github.com/seufster71/toasthub-reactweb-member-submenu
 	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/ec_store"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/member/ec_store
+	url = https://github.com/seufster71/toasthub-react-ec-store
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/ec_store"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/memberView/ec_store
+	url = https://github.com/seufster71/toasthub-reactweb-ec-store
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/ec_store"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/admin/ec_store
+	url = https://github.com/seufster71/toasthub-react-admin-ec-store
+	branch = master
+[submodule "/Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/ec_store"]
+	path = /Users/edwardseufert/git/toasthubblueprint/toasthubblueprint/src/main/js/adminView/ec_store
+	url = https://github.com/seufster71/toasthub-reactweb-admin-ec-store
+	branch = master
