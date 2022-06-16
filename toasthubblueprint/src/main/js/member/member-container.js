@@ -12,7 +12,6 @@ import LoginContainer from '../core/usermgnt/login-container';
 import StatusView from '../coreView/status/status-view';
 import LoadingView from '../coreView/status/loading-view';
 import NavigationView from '../coreView/navigation/navigation-view';
-import EventsContainer from './events/events-container';
 import AcquaintancesContainer from './acquaintances/acquaintances-container';
 import PMTeamContainer from './pm_team/team-container';
 import PMMemberContainer from './pm_team/member-container';
@@ -28,6 +27,7 @@ import PMEnhancementContainer from './pm_enhancement/enhancement-container';
 import PMTaskContainer from './pm_task/task-container';
 import PMWorkflowContainer from './pm_workflow/workflow-container';
 import PMWorkflowStepContainer from './pm_workflow/workflowstep-container';
+import ECStoreContainer from './ec_store/store-container';
 import NotesContainer from './notes/notes-container';
 import GroupsContainer from './groups/groups-container';
 import SubMenuContainer from './submenu/submenu-container';
@@ -92,6 +92,7 @@ class MemberContainer extends Component {
             <PrivateRoute path="/pm-task" component={PMTaskContainer} permissions={myPermissions} code="MPMTASK" pathto="/access-denied"/>
             <PrivateRoute path="/pm-workflow" component={PMWorkflowContainer} permissions={myPermissions} code="MPMWF" pathto="/access-denied"/>
             <PrivateRoute path="/pm-workflowstep" component={PMWorkflowStepContainer} permissions={myPermissions} code="MPMWFS" pathto="/access-denied"/>
+            <PrivateRoute path="/ec-store" component={ECStoreContainer} permissions={myPermissions} code="MECSTORE" pathto="/access-denied"/>
             <PrivateRoute path="/member-groups" component={GroupsContainer} permissions={myPermissions} code="MG" pathto="/access-denied"/>
             <PrivateRoute path="/member-notes" component={NotesContainer} permissions={myPermissions} code="MN" pathto="/access-denied"/>
             <PrivateRoute path="/member-submenu" component={SubMenuContainer} permissions={myPermissions} code="MSM" pathto="/access-denied"/>
@@ -115,10 +116,10 @@ class MemberContainer extends Component {
 MemberContainer.propTypes = {
 	appPrefs: PropTypes.object.isRequired,
 	appMenus: PropTypes.object,
-  session: PropTypes.object,
-  member: PropTypes.object,
+  	session: PropTypes.object,
+  	member: PropTypes.object,
 	actions: PropTypes.object,
-  history: PropTypes.object
+  	history: PropTypes.object
 };
 
 function mapStateToProps(state, ownProps) {

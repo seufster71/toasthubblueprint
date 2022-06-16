@@ -35,10 +35,11 @@ import pmtestcase from '../member/pm_testcase/testcase-reducer';
 import pmtestscenario from '../member/pm_testscenario/testscenario-reducer';
 import pmworkflow from '../member/pm_workflow/workflow-reducer';
 import pmworkflowstep from '../member/pm_workflow/workflowstep-reducer';
+import ecstore from '../member/ec_store/store-reducer';
 
 const rootReducer = combineReducers({appPrefs,appMenus,session,member,status,statuses,
   users,languages,roles,permissions,menus,preferences,preferenceSub,services,clientDomains,applications,
 acquaintances,dashboard,userPrefs,pmteam,pmmember,pmrole,pmpermission,pmproduct,pmproject,pmrelease,pmbacklog,pmdefect,pmenhancement,pmscrum,pmsprint,pmtask,
-pmtestcase,pmtestscenario,pmworkflow,pmworkflowstep});
+pmtestcase,pmtestscenario,pmworkflow,pmworkflowstep,ecstore});
 
 export default rootReducer;
